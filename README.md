@@ -36,5 +36,8 @@ First, computer issue. To be honest, my computer, which I used to make this bot 
 
 Second, your information when you send to us is being deleted immediately. Yeah, low computer's memory.
 
+# FINALLY:
+We don't share any information to the third-party.
+
 That's the end of this text, any grammar error or misinformation, feel free to send them to:
 vuminha9legends@gmail.com
