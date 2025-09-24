@@ -1,11 +1,9 @@
 # Privacy-and-Policy---CNC-bot
-
+This bot was made by ItzMind (You can call me Not_ItzMind or Salmon) and some random guys on the website on the Internet 
+(They don't give me their name).
 # READ IT BEFORE IT'S TOO LATE FOR YOU!
 
 This is the Privacy and Policy or the Changing Name Color bot, which works on Discord.
-
-This bot was made by ItzMind (You can call me Not_ItzMind or Salmon) and some random guys on the website on the Internet 
-(They don't give me their name).
 
 Your Privacy is important to me and the team who created this bot. This text explains what information we collect, how we use it and
 how we store them. If you do not agree anything below, please stop using this bot.
@@ -38,5 +36,5 @@ First, computer issue. To be honest, my computer, which I used to make this bot 
 
 Second, your information when you send to us is being deleted immediately. Yeah, low computer's memory.
 
-That's the end of this text, any grammar error or misinformation, please send them to:
+That's the end of this text, any grammar error or misinformation, feel free to send them to:
 vuminha9legends@gmail.com
